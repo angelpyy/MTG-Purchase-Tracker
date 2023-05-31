@@ -1,0 +1,597 @@
+,Card Name,Card Set,Card Purchase Price,Card Current Price
+0,Flooded Grove,Zendikar Expeditions,$33.24,2.60
+1,Anchor to Reality,Kamigawa: Neon Dynasty,$0.09,0.07
+2,Archivist of Oghma,Commander Legends: Battle for Baldur's Gate,$10.24,6.97
+3,Bolas's Citadel ,WPN & Gateway Promos,$4.66,5.95
+4,Deep Forest Hermit ,Modern Horizons,$0.60,2.15
+5,Impulse,Dominaria United,$0.35,0.17
+6,Jeska's Will,Commander Legends,$14.78,17.17
+7,"Otawara, Soaring City",Kamigawa: Neon Dynasty,$12.49,14.03
+8,Tooth and Nail,Mirrodin,$18.75,17.97
+9,Toxic Deluge,Commander Collection: Black,$16.73,18.04
+10,Battle Bus - Smuggler's Copter,Secret Lair Drop Series,$4.99,4.14
+11,Battle Royale - Triumph of the Hordes,Secret Lair Drop Series,$10.50,26.98
+12,Supply Llama - Etherium Sculptor,Secret Lair Drop Series,$5.94,4.41
+13,Academy Manufactor,Modern Horizons 2,$5.01,2.62
+14,An Offer You Can't Refuse,Streets of New Capenna,$1.89,2.57
+15,Bootleggers' Stash ,Streets of New Capenna,$13.17,5.15
+16,Eternal Witness ,Double Masters 2022,$2.50,2.19
+17,Void Rend ,Streets of New Capenna,$1.52,2.23
+18,"Ziatora, the Incinerator ",Streets of New Capenna,$4.01,2.39
+19,"Chun-Li, Countless Kicks",Secret Lair Drop Series,$13.76,12.49
+20,Ash Barrens,Commander 2016,$0.49,0.06
+21,Beast Within,Commander 2020,$0.86,0.84
+22,Bower Passage,Avacyn Restored,$0.26,0.29
+23,Cinder Glade,Commander: Kamigawa: Neon Dynasty,$0.65,0.20
+24,Command Tower,Commander 2021,$0.29,0.73
+25,Crucible of Fire,Shards of Alara,$2.00,1.34
+26,Crucible of the Spirit Dragon,Fate Reforged,$0.25,0.33
+27,Displace,Eldritch Moon,$0.30,0.23
+28,Dragon Tempest,Iconic Masters,$8.25,4.26
+29,Essence Flux,Shadows over Innistrad,$1.27,1.67
+30,Exotic Orchard,Commander 2016,$0.63,0.76
+31,Farseek,Magic 2013 (M13),$1.73,0.98
+32,Frontier Bivouac,Khans of Tarkir,$0.39,0.37
+33,Glasspool Mimic,Zendikar Rising,$3.84,2.85
+34,Hellkite Charger,Modern Masters 2015,$3.71,3.75
+35,Kindred Discovery,Commander Legends: Battle for Baldur's Gate,$4.34,9.01
+36,Mosswort Bridge,Commander: Streets of New Capenna,$0.39,0.20
+37,Path of Ancestry,Commander: Streets of New Capenna,$0.26,0.42
+38,Rishkar's Expertise,Commander: Kamigawa: Neon Dynasty,$1.22,4.82
+39,Rockfall Vale,Innistrad: Midnight Hunt,$1.65,0.89
+40,Savage Ventmaw,Dragons of Tarkir,$0.45,0.55
+41,Sneak Attack,Double Masters,$17.62,8.96
+42,Spinerock Knoll,Commander: Adventures in the Forgotten Realms,$0.18,0.26
+43,Stubborn Denial,Khans of Tarkir,$1.01,2.69
+44,Teferi's Time Twist,War of the Spark,$0.20,0.18
+45,Thundermaw Hellkite,Magic 2013 (M13),$4.03,4.06
+46,Unclaimed Territory,Ixalan,$2.00,0.61
+47,Warstorm Surge,Magic 2012 (M12),$0.42,0.28
+48,Arid Mesa,Modern Horizons 2,$13.48,14.52
+49,Counterspell,Modern Horizons 2,$1.55,1.33
+50,Crucible of Worlds ,Double Masters 2022,$41.05,19.51
+51,Garth One-Eye ,Modern Horizons 2,$1.04,0.36
+52,Ignoble Hierarch ,Modern Horizons 2,$3.56,2.44
+53,Liquimetal Torque,Modern Horizons 2,$1.09,0.83
+54,Marsh Flats,Modern Horizons 2,$12.74,12.18
+55,Mirari's Wake ,Modern Horizons 2,$7.00,5.42
+56,Misty Rainforest,Modern Horizons 2,$21.82,18.15
+57,Scalding Tarn,Modern Horizons 2,$23.93,19.98
+58,Sword of Hearth and Home ,Modern Horizons 2,$12.43,11.45
+59,"Sythis, Harvest's Hand ",Modern Horizons 2,$1.78,1.04
+60,Thought Monitor ,Modern Horizons 2,$1.96,1.13
+61,Urza's Saga ,Modern Horizons 2,$28.05,28.05
+62,Verdant Catacombs,Modern Horizons 2,$16.85,14.81
+63,Monster Manual ,Commander Legends: Battle for Baldur's Gate,$3.45,2.53
+64,Scute Swarm ,Zendikar Rising,$2.96,4.31
+65,"Aminatou, the Fateshifter",Double Masters 2022,$2.12,3.17
+66,Flickerwisp ,Double Masters 2022,$1.03,0.17
+67,Rampant Growth ,Double Masters 2022,$0.94,0.30
+68,Rampant Growth ,Double Masters 2022,$0.89,0.30
+69,Elvish Mystic,Magic 2015 (M15),$0.48,1.62
+70,Intruder Alarm,8th Edition,$10.25,11.11
+71,Austere Command,Commander Legends,$1.51,0.68
+72,Mobile Garrison,Aether Revolt,$0.21,0.17
+73,Hidden Strings,Dragon's Maze,$0.20,0.21
+74,"Teferi, Who Slows the Sunset",Innistrad: Midnight Hunt,$4.20,3.48
+75,Deadeye Quartermaster,Ixalan,$0.29,0.28
+76,"Cosima, God of the Voyage",Kaldheim,$0.71,0.26
+77,Farseek,Commander 2019,$2.06,0.98
+78,Rampant Growth,8th Edition,$0.58,0.30
+79,Rampant Growth,Commander 2021,$0.56,0.30
+80,Rude Awakening,Modern Masters,$0.77,1.04
+81,Sylvan Awakening,Dominaria,$1.09,1.11
+82,Terra Eternal,Worldwake,$1.37,1.06
+83,"Tomik, Distinguished Advokist",War of the Spark,$0.20,0.21
+84,Tragic Arrogance,Commander 2021,$0.59,0.95
+85,Unbreakable Formation,Secret Lair Drop Series,$1.94,0.20
+86,Old Cemetery,SWSH06: Chilling Reign,$0.19,14.98
+87,Intruder Alarm,8th Edition,$10.25,11.11
+88,Austere Command,Commander Legends,$1.51,0.68
+89,Mobile Garrison,Aether Revolt,$0.21,0.17
+90,Hidden Strings,Dragon's Maze,$0.20,0.21
+91,"Teferi, Who Slows the Sunset",Innistrad: Midnight Hunt,$4.20,3.48
+92,Deadeye Quartermaster,Ixalan,$0.29,0.28
+93,"Cosima, God of the Voyage",Kaldheim,$0.71,0.26
+94,Farseek,Commander 2019,$2.06,0.98
+95,Rampant Growth,8th Edition,$0.58,0.30
+96,Rampant Growth,Commander 2021,$0.56,0.30
+97,Rude Awakening,Modern Masters,$0.77,1.04
+98,Sylvan Awakening,Dominaria,$1.09,1.11
+99,Terra Eternal,Worldwake,$1.37,1.06
+100,"Tomik, Distinguished Advokist",War of the Spark,$0.20,0.21
+101,Tragic Arrogance,Commander 2021,$0.59,0.95
+102,Unbreakable Formation,Secret Lair Drop Series,$1.94,0.20
+103,Old Cemetery,SWSH06: Chilling Reign,$0.19,14.98
+104,Improvised Weaponry,Adventures in the Forgotten Realms,$0.04,0.03
+105,Destructive Tampering,Aether Revolt,$0.01,0.02
+106,Outpost Siege,Commander 2017,$0.22,0.24
+107,"Alena, Kessig Trapper",Commander Legends,$0.12,0.11
+108,Brazen Freebooter,Commander Legends,$0.01,0.01
+109,Sisay's Ring,Commander Legends,$0.06,0.07
+110,Spectral Searchlight,Commander Legends,$0.04,0.03
+111,Meteor Golem,Commander Legends: Battle for Baldur's Gate,$0.04,0.16
+112,Catalyst Elemental,Core Set 2019,$0.02,0.03
+113,Meteorite,Core Set 2021,$0.03,0.02
+114,Warden of the Wall,Dark Ascension,$0.07,0.10
+115,Sandstone Oracle,Double Masters,$0.09,0.17
+116,Abrade,Innistrad: Crimson Vow,$0.12,0.15
+117,Foreboding Statue,Innistrad: Crimson Vow,$0.08,0.09
+118,Into the Night,Innistrad: Crimson Vow,$0.08,0.10
+119,Network Terminal,Kamigawa: Neon Dynasty,$0.05,0.06
+120,Ring of Valkas,Magic 2013 (M13),$0.12,0.11
+121,Soulbright Flamekin,Masters 25,$0.08,0.11
+122,Faithless Salvaging,Modern Horizons 2,$0.06,0.04
+123,Fast // Furious,Modern Horizons 2,$0.03,0.02
+124,Mogg Salvage,Modern Horizons 2,$0.06,0.08
+125,Racecourse Fury,Return to Ravnica,$0.04,0.07
+126,Strider Harness,Scars of Mirrodin,$0.01,0.05
+127,Tormenting Voice,Shadows over Innistrad,$0.05,0.05
+128,Exuberant Firestoker,Shards of Alara,$0.10,0.13
+129,Introduction to Annihilation,Strixhaven: School of Mages,$0.05,0.10
+130,Letter of Acceptance,Strixhaven: School of Mages,$0.06,0.07
+131,Altar of the Pantheon,Theros Beyond Death,$0.07,0.16
+132,Furious Rise,Theros Beyond Death,$0.04,0.04
+133,Cliffhaven Kitesail,Zendikar Rising,$0.05,0.04
+134,Baldur's Gate,Commander Legends: Battle for Baldur's Gate,$0.79,0.78
+135,Basilisk Gate,Commander Legends: Battle for Baldur's Gate,$0.10,0.53
+136,Black Dragon Gate,Commander Legends: Battle for Baldur's Gate,$0.17,0.18
+137,Citadel Gate,Commander Legends: Battle for Baldur's Gate,$0.16,0.44
+138,Cliffgate,Commander Legends: Battle for Baldur's Gate,$0.15,0.11
+139,Dimir Keyrune,Gatecrash,$0.17,0.17
+140,Explore the Underdark,Commander Legends: Battle for Baldur's Gate,$0.10,0.20
+141,Gate Colossus,Commander Legends: Battle for Baldur's Gate,$0.04,0.06
+142,Gond Gate,Commander Legends: Battle for Baldur's Gate,$0.25,0.32
+143,Heap Gate,Commander Legends: Battle for Baldur's Gate,$0.10,0.13
+144,Manor Gate,Commander Legends: Battle for Baldur's Gate,$0.16,0.21
+145,Mind Stone ,WPN & Gateway Promos,$0.60,
+146,Sea Gate,Commander Legends: Battle for Baldur's Gate,$0.16,0.20
+147,Spellskite ,Secret Lair Drop Series,$4.77,3.69
+148,Aqueous Form,Commander Legends,$0.18,0.17
+149,Arcane Signet,Commander: Streets of New Capenna,$1.03,0.36
+150,"Ashiok, Dream Render",War of the Spark,$2.11,1.11
+151,"Ashiok, Nightmare Muse",Theros Beyond Death,$4.18,2.97
+152,Author of Shadows,Commander 2021,$0.54,0.20
+153,Bojuka Bog,Worldwake,$1.13,0.53
+154,Burnished Hart,Commander 2021,$0.19,0.11
+155,Charcoal Diamond,Commander Legends,$0.15,0.12
+156,Choked Estuary,Commander: Streets of New Capenna,$0.34,0.17
+157,Command Tower,Commander 2021,$0.23,0.73
+158,Consuming Aberration,Commander 2016,$0.86,0.39
+159,Court of Cunning,Commander Legends,$0.75,1.98
+160,Curse of the Swine,Theros,$0.44,0.39
+161,Darkwater Catacombs,Commander 2019,$0.18,0.16
+162,Deadeye Tracker,Ixalan,$0.10,0.28
+163,Dimir Signet,Commander: Streets of New Capenna,$1.12,0.58
+164,Dissipate,Innistrad: Midnight Hunt,$0.06,0.09
+165,Doom Blade,Magic 2011 (M11),$0.19,0.22
+166,Draugr Necromancer,Kaldheim,$0.15,0.23
+167,Dread Presence,Core Set 2020,$1.67,1.70
+168,Drown in Dreams,Commander: Innistrad: Midnight Hunt,$3.24,4.45
+169,Ebony Fly,Commander: Adventures in the Forgotten Realms,$0.13,0.65
+170,Evolving Wilds,Innistrad: Crimson Vow,$0.08,
+171,Faceless Butcher,Torment,$0.19,0.22
+172,Fathom Feeder,Battle for Zendikar,$0.13,0.24
+173,Fleshwrither,Future Sight,$0.64,2.11
+174,Forgotten Creation,Commander: Innistrad: Midnight Hunt,$0.20,0.17
+175,Fractured Sanity,Modern Horizons 2,$0.49,0.43
+176,"Grazilaxx, Illithid Scholar",Adventures in the Forgotten Realms,$1.04,0.33
+177,Heartless Act,Ikoria: Lair of Behemoths,$0.23,0.18
+178,Honored Heirloom,Innistrad: Crimson Vow,$0.10,0.10
+179,Island,Core Set 2021,$0.46,
+180,Island,Guilds of Ravnica,$0.46,
+181,Island,Zendikar Rising,$0.37,
+182,Island,Zendikar Rising,$0.43,
+183,King Narfi's Betrayal,Kaldheim,$0.14,0.10
+184,Lantern of the Lost,Innistrad: Crimson Vow,$0.18,0.10
+185,Maddening Cacophony,Zendikar Rising,$1.58,3.09
+186,Mask of Griselbrand,Innistrad: Midnight Hunt,$0.50,0.55
+187,Mind Flayer,Adventures in the Forgotten Realms,$0.38,14.84
+188,Mind Stone,Commander 2014,$0.87,
+189,Myriad Landscape,Commander 2021,$0.12,0.19
+190,Nightmare Shepherd,Theros Beyond Death,$0.49,0.35
+191,Nihil Spellbomb,Scars of Mirrodin,$0.32,0.55
+192,Oblivion Sower,Battle for Zendikar,$2.15,1.43
+193,"Oona, Queen of the Fae",Commander: Zendikar Rising,$0.40,0.69
+194,Overcharged Amalgam,Innistrad: Crimson Vow,$0.55,0.21
+195,Path of Ancestry,Commander: Streets of New Capenna,$0.11,0.42
+196,Phyrexian Rager,Eternal Masters,$0.14,0.08
+197,Phyrexian Revoker,Magic 2015 (M15),$1.05,0.25
+198,Prismatic Lens,Time Spiral: Remastered,$0.42,0.40
+199,Prowler's Helm,Theros,$0.29,0.62
+200,Ravenous Chupacabra,Rivals of Ixalan,$0.68,0.24
+201,Read the Bones,Magic Origins,$0.21,0.20
+202,Reality Shift,Fate Reforged,$0.88,0.44
+203,Resculpt,Strixhaven: School of Mages,$0.28,0.29
+204,Rogue's Passage,Commander 2021,$0.23,0.42
+205,Scavenger Grounds,Commander 2020,$1.79,2.74
+206,Sentinel Totem,Ixalan,$0.08,0.08
+207,Sign in Blood,Magic 2010 (M10),$0.22,0.76
+208,Sky Diamond,Commander Legends,$0.19,0.13
+209,Sludge Monster,Innistrad: Midnight Hunt,$0.23,0.21
+210,Sol Ring,Commander 2020,$1.21,0.05
+211,Sphere of Annihilation,Adventures in the Forgotten Realms,$0.25,0.12
+212,Sunken Hollow,Commander: Streets of New Capenna,$0.45,0.24
+213,Swamp,Zendikar Rising,$0.32,0.98
+214,Swiftfoot Boots,Commander 2014,$1.37,0.80
+215,Syphon Mind,Commander,$1.13,0.34
+216,Temple of Deceit,Theros Beyond Death,$0.60,0.16
+217,Terramorphic Expanse,Magic 2011 (M11),$0.23,0.43
+218,Thief of Sanity,Commander: Streets of New Capenna,$0.24,0.46
+219,Tormod's Crypt,Magic 2015 (M15),$0.30,0.22
+220,"Umbris, Fear Manifest",Commander: Innistrad: Crimson Vow,$4.50,6.08
+221,Underworld Connections,Commander 2015,$0.16,0.18
+222,Void Shatter,Oath of the Gatewatch,$0.18,0.14
+223,Wharf Infiltrator,Eldritch Moon,$0.29,0.12
+224,Whispering Madness,Commander 2016,$0.79,0.99
+225,Whispersilk Cloak,Darksteel,$1.87,
+226,Winged Boots,Commander: Adventures in the Forgotten Realms,$0.20,2.39
+227,Yarok's Fenlurker,Core Set 2020,$0.25,0.22
+228,All That Glitters,Throne of Eldraine,$1.43,1.62
+229,Alseid of Life's Bounty,Theros Beyond Death,$0.25,0.27
+230,Austere Command,Iconic Masters,$2.50,0.68
+231,Ethereal Armor,Return to Ravnica,$0.31,0.42
+232,Gods Willing,Masters 25,$0.10,0.09
+233,Hyena Umbra,Ultimate Masters,$0.35,0.18
+234,Lizard Blades ,Kamigawa: Neon Dynasty,$1.63,0.76
+235,Open the Armory,Commander Legends,$0.53,0.92
+236,Selfless Savior,Core Set 2021,$0.20,0.22
+237,"Sram, Senior Edificer",Aether Revolt,$0.14,0.38
+238,Vow of Duty,Commander Legends,$0.06,0.05
+239,Altar's Reap,Magic 2014 (M14),$0.20,0.41
+240,Azorius Guildgate,Commander: Kaldheim,$0.15,0.96
+241,Blighted Woodland,Commander: Streets of New Capenna,$0.17,0.08
+242,Boros Guildgate,Commander Legends,$0.08,0.12
+243,Bound // Determined,Dissension,$0.25,0.35
+244,Broken Bond,Dominaria,$0.04,0.27
+245,"Budoka Gardener // Dokai, Weaver of Life",Commander 2018,$0.62,1.22
+246,Burnished Hart,Commander 2019,$0.20,0.11
+247,Child of Alara,From the Vault: Annihilation,$13.88,0.77
+248,Circuitous Route,Guilds of Ravnica,$0.44,0.70
+249,Costly Plunder,Double Masters,$0.23,0.24
+250,Creeping Renaissance,Innistrad,$0.76,1.51
+251,Crop Rotation,Commander 2020,$1.72,1.13
+252,Diabolic Tutor,Magic 2010 (M10),$0.78,1.53
+253,Dimir Guildgate,Modern Masters 2017,$0.20,0.21
+254,District Guide,Guilds of Ravnica,$0.05,0.11
+255,Dredge,Invasion,$0.24,0.25
+256,Evolving Wilds,Commander Legends,$0.09,
+257,Expedition Map,Zendikar,$1.69,2.56
+258,Explore,Commander: Streets of New Capenna,$0.17,0.15
+259,Final Parting,Dominaria,$0.79,0.86
+260,Footsteps of the Goryo,Saviors of Kamigawa,$3.49,5.23
+261,Forest,Core Set 2020,$0.78,2.15
+262,Forest,Kaldheim,$0.75,2.15
+263,Forest,Theros Beyond Death,$0.68,2.15
+264,Frantic Search,Commander: Streets of New Capenna,$0.42,0.24
+265,Gatecreeper Vine,Return to Ravnica,$0.23,0.24
+266,Gateway Plaza,Ravnica Allegiance,$0.06,0.11
+267,Ghirapur Orrery,Kaladesh,$0.63,0.92
+268,Golgari Guildgate,Commander 2019,$0.15,0.12
+269,Grim Backwoods,Commander 2020,$0.24,0.24
+270,Grixis Panorama,Commander: Streets of New Capenna,$0.19,0.21
+271,Growth Spiral,Commander Legends,$0.33,0.37
+272,Gruul Guildgate,Gatecrash,$0.13,0.19
+273,Guild Summit,Guilds of Ravnica,$0.22,0.33
+274,High Market,Commander: Adventures in the Forgotten Realms,$0.89,2.87
+275,Hour of Promise,Hour of Devastation,$0.58,1.02
+276,Infernal Offering,Commander 2021,$0.10,0.14
+277,Innocent Blood,Eternal Masters,$0.13,0.16
+278,Inspiring Statuary,Aether Revolt,$6.99,0.20
+279,Island,Promo Pack: Core Set 2020,$0.60,
+280,Island,Ravnica Allegiance,$0.50,
+281,Island,Rivals of Ixalan,$0.90,
+282,Island,Theros Beyond Death,$3.12,
+283,Izzet Guildgate,Commander 2019,$0.10,0.15
+284,Journey of Discovery,Mirrodin,$0.19,0.23
+285,Jund Panorama,Commander: Streets of New Capenna,$0.15,0.19
+286,Kiora's Follower,Born of the Gods,$0.24,0.36
+287,Krosan Wayfarer,Judgment,$0.22,0.14
+288,Llanowar Scout,Dominaria,$0.15,0.17
+289,Manifold Key,Core Set 2020,$0.94,0.27
+290,Maze's End,Prerelease Cards,$5.13,2.30
+291,Mountain,Kaldheim,$0.87,0.10
+292,Naya Charm,Commander: Zendikar Rising,$0.15,0.21
+293,Open the Gates,Ravnica Allegiance,$0.12,0.21
+294,Orzhov Guildgate,Modern Masters 2017,$0.30,0.35
+295,Perilous Research,Modern Masters,$0.27,0.31
+296,Pir's Whim,The List,$0.55,1.46
+297,Plains,Ikoria: Lair of Behemoths,$0.25,0.07
+298,Rakdos Guildgate,Return to Ravnica,$0.13,0.19
+299,Read the Runes,Jumpstart,$0.29,0.78
+300,Realm Seekers,Conspiracy,$0.52,0.38
+301,Reap and Sow,Darksteel,$0.18,0.02
+302,Recollect,Core Set 2019,$0.09,0.02
+303,Restock,Magic 2015 (M15),$0.20,0.19
+304,Rewind,Core Set 2021,$0.25,0.26
+305,Rites of Flourishing,Commander 2016,$0.89,1.19
+306,Rogue's Passage,Commander: Streets of New Capenna,$0.26,0.42
+307,Scapeshift,Morningtide,$16.98,19.21
+308,Scour from Existence,Battle for Zendikar,$0.19,0.19
+309,Seedborn Muse,Commander 2019,$10.14,15.83
+310,Seeds of Renewal,Commander 2016,$0.90,0.73
+311,Selesnya Guildgate,Commander: Zendikar Rising,$0.15,0.24
+312,Shrine of the Forsaken Gods,Battle for Zendikar,$0.24,0.47
+313,Simic Guildgate,Gatecrash,$0.09,0.15
+314,Skyshroud Ranger,Tempest,$0.16,0.50
+315,Soul of New Phyrexia,Commander 2016,$1.60,0.35
+316,Stone-Seeder Hierophant,Ravnica: City of Guilds,$0.23,0.30
+317,Summer Bloom,Visions,$1.35,0.46
+318,Swamp,Core Set 2021,$0.43,0.98
+319,Sylvan Scrying,Battle for Zendikar,$0.25,0.34
+320,Tariff,Weatherlight,$0.28,0.32
+321,"Tatyova, Benthic Druid",Dominaria,$2.56,0.37
+322,Tempt with Discovery,Commander 2016,$1.19,4.20
+323,Terramorphic Expanse,Commander 2019,$0.25,0.43
+324,The Mending of Dominaria,Dominaria,$0.35,0.26
+325,Treasured Find,Return to Ravnica,$0.14,0.29
+326,"Tymaret, the Murder King",Theros,$0.18,0.13
+327,Unwind,Dominaria,$0.29,0.36
+328,Urban Evolution,Commander Legends,$0.10,0.16
+329,Virtus's Maneuver,Battlebond,$1.00,0.96
+330,Vizier of Tumbling Sands,Amonkhet,$0.18,0.19
+331,Voyaging Satyr,Theros,$0.07,0.09
+332,Walking Atlas,Worldwake,$1.07,0.94
+333,Warped Landscape,Shadows over Innistrad,$0.25,0.31
+334,Wilderness Reclamation,Ravnica Allegiance,$2.24,2.22
+335,Wildest Dreams,Kaladesh,$0.39,0.31
+336,Perplexing Test,Commander 2021,$2.25,0.57
+337,Vizier of Tumbling Sands,Amonkhet,$0.15,0.19
+338,"Rebbec, Architect of Ascension",Commander Legends,$0.16,0.14
+339,Wonder,Modern Horizons 2,$0.29,1.89
+340,Unwinding Clock,New Phyrexia,$6.99,4.70
+341,Raffine's Tower ,Streets of New Capenna,$8.35,10.24
+342,Spara's Headquarters ,Streets of New Capenna,$7.45,7.32
+343,Jetmir's Garden ,Streets of New Capenna,$6.89,7.52
+344,Xander's Lounge ,Streets of New Capenna,$6.95,6.57
+345,Ziatora's Proving Ground ,Streets of New Capenna,$7.49,6.67
+346,"Akiri, Fearless Voyager",Zendikar Rising,$0.28,0.30
+347,Argentum Armor,Commander: Adventures in the Forgotten Realms,$0.37,0.59
+348,Armored Skyhunter,Commander Legends,$0.53,1.33
+349,Fighter Class,Adventures in the Forgotten Realms,$1.47,4.11
+350,Mask of Memory,Mystery Booster Cards,$0.33,0.14
+351,Masterwork of Ingenuity,Commander 2014,$0.58,1.12
+352,Moonsilver Spear,Commander: Adventures in the Forgotten Realms,$0.16,0.26
+353,"Rograkh, Son of Rohgahh",Commander Legends,$0.24,0.40
+354,"Rograkh, Son of Rohgahh",Commander Legends,$0.29,0.40
+355,Bludgeon Brawl,New Phyrexia,$0.22,0.24
+356,Brass Squire,Mirrodin Besieged,$0.17,0.26
+357,Colossus Hammer,Commander: Adventures in the Forgotten Realms,$0.95,2.94
+358,Daybreak Coronet,Ultimate Masters,$8.13,6.91
+359,Diabolic Tutor,Magic 2014 (M14),$0.60,1.53
+360,Final Parting,Dominaria,$1.00,0.86
+361,"Grothama, All-Devouring",Battlebond,$5.00,6.20
+362,Palladium Myr,Scars of Mirrodin,$0.33,0.71
+363,Puresteel Paladin,Commander: Adventures in the Forgotten Realms,$4.00,7.78
+364,Satoru Umezawa,Buy-A-Box Promos,$1.99,0.20
+365,View from Above,Conflux,$0.13,0.20
+366,Paradise Plume,Commander 2021,$0.07,0.08
+367,Introduction to Prophecy,Strixhaven: School of Mages,$0.09,0.07
+368,Wings of Hubris,Theros Beyond Death,$0.02,0.05
+369,Boots of Speed,Adventures in the Forgotten Realms,$0.05,0.08
+370,Dungeon Map,Adventures in the Forgotten Realms,$0.03,0.11
+371,"Etali, Primal Storm",Commander: Streets of New Capenna,$0.34,0.28
+372,Exhibition Magician,Streets of New Capenna,$0.01,0.02
+373,Fleetfeather Sandals,Theros,$0.05,0.14
+374,Orazca Relic,Commander: Adventures in the Forgotten Realms,$0.04,0.10
+375,Seer's Lantern,Oath of the Gatewatch,$0.06,0.04
+376,Shredded Sails,Ikoria: Lair of Behemoths,$0.06,0.06
+377,Manalith,Magic 2012 (M12),$0.09,0.77
+378,Haunted Cloak,Shadows over Innistrad,$0.25,0.03
+379,Crystal Slipper,Throne of Eldraine,$0.02,0.04
+380,Grinning Ignus,Time Spiral: Remastered,$0.01,0.07
+381,Honor the God-Pharaoh,War of the Spark,$0.02,0.06
+382,Unstable Obelisk,Commander 2014,$0.06,0.12
+383,Executioner's Hood,Dark Ascension,$0.08,0.16
+384,Gleaming Barrier,Double Masters,$0.10,0.09
+385,Electric Revelation,Innistrad: Midnight Hunt,$0.04,0.04
+386,Raze the Effigy,Innistrad: Midnight Hunt,$0.07,0.07
+387,Cobbled Wings,Ixalan,$0.05,0.05
+388,Hierophant's Chalice,Ixalan,$0.09,0.10
+389,Rummaging Goblin,Ixalan,$0.01,0.02
+390,Smashing Success,Kaldheim,$0.01,0.05
+391,Gilded Pinions,Streets of New Capenna,$0.02,0.04
+392,Involuntary Employment,Streets of New Capenna,$0.01,0.09
+393,Riveteers Requisitioner,Streets of New Capenna,$0.03,0.06
+394,Suspicious Bookcase,Streets of New Capenna,$0.04,0.04
+395,Unlucky Witness,Streets of New Capenna,$0.08,0.08
+396,Humble Defector,Commander Legends,$0.07,0.15
+397,Component Pouch,Commander: Adventures in the Forgotten Realms,$0.07,0.24
+398,Explorer's Scope,Commander: Adventures in the Forgotten Realms,$0.10,0.18
+399,Esper Sentinel ,Modern Horizons 2 Variants,$24.99,28.49
+400,"Najeela, the Blade-Blossom ",Commander Legends Variants,$8.99,13.68
+401,"Kenrith, the Returned King ",Promotional,$4.39,3.00
+402,Balduvian Rage,Double Masters Foil,$0.20,0.12
+403,Beetleback Chief,Duel Decks,$0.39,0.24
+404,Brute Force,Planar Chaos,$0.28,0.14
+405,Desert of the Fervent,Hour of Devastation,$0.20,0.11
+406,Dragon Fodder,Modern Masters 2017 Foil,$0.20,0.12
+407,Emrakul's Hatcher,Rise of the Eldrazi,$0.23,0.22
+408,Fall of the Hammer,Mystery Booster/The List,$0.20,0.20
+409,Flare,Mirage,$0.20,0.15
+410,Forgotten Cave,Onslaught,$0.28,0.12
+411,Ghirapur Gearcrafter,Duel Decks,$0.20,0.10
+412,Goblin Freerunner,Oath of the Gatewatch,$0.20,0.08
+413,Goblin Heelcutter,Fate Reforged,$0.20,0.08
+414,Hedron Crawler,Oath of the Gatewatch,$0.20,0.15
+415,Impulsive Pilferer,Commander Legends,$0.20,0.14
+416,Inner Fire,Saviors of Kamigawa,$0.79,0.26
+417,Iron Myr,Scars of Mirrodin,$0.79,0.36
+418,Manakin,Iconic Masters,$0.28,0.23
+419,Rites of Initiation,Odyssey,$0.20,0.27
+420,Smoldering Crater,Urza's Saga,$0.31,0.04
+421,Stun,Invasion,$0.20,0.79
+422,Zap,Invasion,$0.20,
+423,Battle Hymn,Avacyn Restored,$1.49,0.69
+424,Blindblast,War of the Spark,$0.25,0.06
+425,Boiling Blood,Mystery Booster/The List,$0.25,0.16
+426,Brute Strength,Game Night 2019,$0.25,0.15
+427,Distemper of the Blood,Eldritch Moon,$0.25,0.06
+428,Empty the Warrens ,Dominaria Remastered Variants Foil,$0.35,0.10
+429,Expedite,Oath of the Gatewatch,$0.25,0.16
+430,Firebrand Archer,Hour of Devastation,$0.79,0.54
+431,Fists of Flame ,Commander Legends,$0.25,0.16
+432,Goblin Battle Jester,2013 Core Set,$0.25,0.09
+433,Goblin Instigator,Core Set 2019,$0.49,0.13
+434,Goblin Matron,Dominaria Remastered,$0.25,0.15
+435,Goblin Wizardry,Core Set 2021,$0.25,0.04
+436,Gravitic Punch,Mystery Booster/The List,$0.25,0.07
+437,Gray Merchant of Asphodel,Theros Beyond Death,$1.29,0.50
+438,Hordeling Outburst,Masters 25,$0.29,0.24
+439,Infuriate,Core Set 2020,$0.25,0.04
+440,Intimidator Initiate,Shadowmoor,$0.25,0.21
+441,Kick in the Door,Adventures in the Forgotten Realms Foil,$0.25,0.04
+442,Krenko's Command,2013 Core Set,$0.49,0.84
+443,Mana Geyser,Conspiracy,$1.79,1.13
+444,Mind Stone,Kaldheim Commander Decks,$0.29,
+445,Mogg War Marshal ,Dominaria Remastered Variants,$0.25,0.07
+446,Needle Drop,Lorwyn,$2.99,2.96
+447,Otherworldly Outburst,Eldritch Moon,$0.25,0.08
+448,Renegade Tactics,Commander Legends,$0.25,0.05
+449,Rile,Adventures in the Forgotten Realms Commander Decks,$0.25,0.14
+450,Run Amok,Kaldheim Foil,$0.25,0.02
+451,Rush of Adrenaline,Explorers of Ixalan,$0.25,0.07
+452,Samut's Sprint,War of the Spark,$0.25,0.09
+453,Skirk Prospector,Dominaria Remastered,$0.25,0.09
+454,Spawning Breath,Rise of the Eldrazi,$0.25,0.25
+455,Temur Battle Rage ,Mystery Booster/The List,$0.25,0.20
+456,Thrill of Possibility ,Promo Pack,$0.25,0.03
+457,Titan's Strength,Double Masters 2022 Foil,$0.25,0.08
+458,Tormenting Voice,Dragons of Tarkir,$0.25,0.05
+459,Warlord's Fury,Dominaria,$0.25,0.17
+460,Brightstone Ritual,Onslaught,$1.39,1.65
+461,Downhill Charge,Nemesis Foil,$3.59,0.36
+462,Kiln Fiend,Duel Decks,$0.18,0.11
+463,Library of Leng,4th Edition,$1.60,1.88
+464,Panic,Ice Age,$0.18,0.23
+465,Sandstone Needle,Mercadian Masques,$0.34,0.95
+466,Aminatou's Augury,Commander 2018,$2.39,3.45
+467,Archaeomancer,2014 Core Set,$0.31,0.29
+468,Cut of the Profits ,Promotional,$0.39,0.10
+469,Dimir Signet,Ravnica,$1.19,0.58
+470,Essence Flux,Shadows Over Innistrad,$1.83,1.67
+471,Fabricate,Mirrodin,$5.19,0.11
+472,High Market,Commander 2015,$2.79,2.87
+473,Metallurgic Summonings,Kaladesh,$2.23,1.71
+474,Plague Wind,Prophecy,$2.39,2.09
+475,Ruthless Knave,Ixalan,$0.00,0.25
+476,Army of the Damned,Innistrad,$0.99,0.39
+477,Breach the Multiverse,March of the Machine,$0.49,2.49
+478,Clone Legion,Streets of New Capenna Commander Decks,$1.79,0.98
+479,Feign Death,Adventures in the Forgotten Realms,$2.29,1.79
+480,Ghoulcaller Gisa,Commander Collection,$2.99,2.27
+481,Meldweb Curator,Phyrexia,$0.35,0.02
+482,Necromantic Selection,Commander 2014,$0.49,0.22
+483,Nim Deathmantle,Double Masters 2022,$3.99,3.15
+484,Saw It Coming,Kaldheim,$0.35,0.23
+485,See Double,March of the Machine,$2.49,1.50
+486,Talisman of Dominance ,Universes Beyond,$1.79,2.06
+487,Teferi's Time Twist,War of the Spark,$0.39,0.18
+488,Treasure Cruise,Time Spiral Remastered,$2.99,0.25
+489,Undying Malice,Innistrad,$1.29,0.40
+490,Alchemist's Refuge,Avacyn Restored,$3.99,2.71
+491,Circle of Dreams Druid,Adventures in the Forgotten Realms,$7.99,4.59
+492,Irenicus's Vile Duplication,Commander Legends,$5.99,2.67
+493,Castle Garenbrig,Throne of Eldraine Foil,$4.79,4.87
+494,Growing Rites of Itlimoc,Ixalan,$21.24,19.80
+495,Harvest Season,Amonkhet,$1.59,1.25
+496,Llanowar Tribe,Modern Horizons,$0.55,0.47
+497,Amphin Mutineer,Commander Legends,$0.99,0.55
+498,Avenger of Zendikar,Streets of New Capenna Commander Decks,$3.99,4.07
+499,Biowaste Blob,Commander Legends,$0.35,0.20
+500,Combine Chrysalis,Modern Horizons 2,$0.25,0.07
+501,Cultivate,Streets of New Capenna Commander Decks,$0.99,0.53
+502,Curious Herd,Commander 2020,$0.25,0.24
+503,Deep Forest Hermit,Modern Horizons,$2.29,2.15
+504,Double Major ,Strixhaven,$2.79,2.07
+505,Eternal Witness,Double Masters 2022,$1.49,2.19
+506,"Ezuri, Claw of Progress",Double Masters 2022,$3.49,1.99
+507,Growth Spasm,Innistrad,$0.25,0.14
+508,Hinterland Harbor,Innistrad,$7.49,2.66
+509,Junk Winder,Modern Horizons 2,$0.25,0.14
+510,"Koma, Cosmos Serpent",Kaldheim,$8.99,9.11
+511,Littjara Mirrorlake,Kaldheim,$0.25,0.08
+512,Mechtitan Core,Kamigawa,$0.25,0.22
+513,Mystic Reflection,Kaldheim Foil,$1.49,0.57
+514,Pest Infestation,Commander 2021,$7.99,6.56
+515,Pongify,Commander 2014,$4.49,2.58
+516,Quasiduplicate,Guilds of Ravnica,$1.79,1.65
+517,Rejuvenating Springs,Commander Legends,$9.49,9.70
+518,Resculpt,Strixhaven,$0.39,0.29
+519,Sakura-Tribe Elder,Commander 2019,$1.49,1.47
+520,Scute Swarm ,Zendikar Rising Variants,$4.49,4.31
+521,Second Harvest,Shadows Over Innistrad,$7.49,5.84
+522,Specimen Collector,Modern Horizons 2,$0.25,0.01
+523,Sublime Epiphany ,Promo Pack Foil,$4.99,3.36
+524,Three Visits,Commander Legends Foil,$5.99,7.11
+525,Timeless Witness,Modern Horizons 2,$0.59,0.25
+526,Tireless Provisioner,Modern Horizons 2,$2.29,1.79
+527,Biovisionary,Gatecrash,$0.28,0.72
+528,Cackling Counterpart,Innistrad,$1.19,0.98
+529,Esika's Chariot ,Kaldheim Variants Foil,$4.79,8.86
+530,Farseek,Ravnica,$2.39,0.98
+531,Khalni Garden,Worldwake,$0.55,0.36
+532,Myr Battlesphere,Duel Decks,$0.39,0.15
+533,Progenitor Mimic,Dragon's Maze,$1.99,1.94
+534,Risen Reef,Core Set 2020,$2.23,1.10
+535,Sharding Sphinx,Shards of Alara,$0.31,0.13
+536,Spawning Bed,Battle for Zendikar,$0.31,0.22
+537,Supplant Form,Fate Reforged,$0.47,0.47
+538,Druid's Deliverance,Return to Ravnica,$0.18,0.16
+539,Saheeli's Artistry,Kaladesh,$0.25,0.14
+540,Dark Ritual,Masters 25,$1.03,1.63
+541,Idyllic Tutor,Morningtide,$8.79,5.08
+542,"Jegantha, the Wellspring ",Promo Pack,$3.99,0.98
+543,Kodama's Reach,Commander 2021,$1.99,1.69
+544,"Selvala, Explorer Returned",Streets of New Capenna Commander Decks,$0.35,0.18
+545,"Zirda, the Dawnwaker ",Promo Pack,$1.79,0.92
+546,Tower of the Magistrate,Mercadian Masques,$16.89,15.24
+547,Aether Gale,Commander Legends,$0.35,0.35
+548,"Alela, Artful Provocateur",Streets of New Capenna Commander Decks,$0.79,0.28
+549,Backdraft Hellkite,Double Masters 2022,$0.35,0.54
+550,Blur,Commander Legends,$0.25,0.15
+551,Clone,3rd Edition,$0.79,0.32
+552,Cultivate ,Strixhaven Mystical Archive,$1.29,0.53
+553,Decanter of Endless Water,Commander Legends,$0.59,1.97
+554,Draconic Muralists,Commander Legends,$0.25,0.19
+555,Dragon Turtle,Adventures in the Forgotten Realms,$0.25,0.25
+556,Dragonlord's Servant,Adventures in the Forgotten Realms Commander Decks,$0.39,0.44
+557,Growth Spiral ,Strixhaven Mystical Archive,$2.99,0.37
+558,Jade Orb of Dragonkind,Commander Legends,$0.25,0.18
+559,"Korlessa, Scale Singer",Commander Legends,$0.25,0.19
+560,Krosan Grip,Strixhaven Mystical Archive,$1.79,0.69
+561,"Lozhan, Dragons' Legacy",Commander Legends,$0.25,0.14
+562,Molten Echoes,Commander 2020,$2.99,1.96
+563,"Niv-Mizzet, the Firemind",Commander 2020,$0.49,0.49
+564,Phantasmal Image,Adventures in the Forgotten Realms Commander Decks,$4.49,3.78
+565,"Ryusei, the Falling Star",Commander Legends,$0.69,0.37
+566,Temple of Abandon,Kamigawa,$0.49,0.13
+567,Temple of Epiphany,Core Set 2020,$0.35,0.13
+568,"Atarka, World Render ",Promotional,$0.28,0.78
+569,Dragon's Hoard,Core Set 2019,$1.19,0.50
+570,Garruk's Uprising,Core Set 2021,$0.79,3.84
+571,Ghostly Flicker,Avacyn Restored,$1.59,2.58
+572,"Niv-Mizzet, Parun",Commander Legends,$2.39,1.93
+573,Scourge of Valkas,Commander 2017,$1.59,1.45
+574,Temple of Mystery,Theros,$0.39,0.18
+575,Temple of the Dragon Queen,Adventures in the Forgotten Realms,$0.23,0.24
+576,Temur Ascendancy,Khans of Tarkir,$1.99,5.13
+577,Dragonspeaker Shaman,Scourge,$1.74,1.62
+578,"Niv-Mizzet, Dracogenius",Return to Ravnica,$0.90,0.95
+579,Skyline Despot,Conspiracy - Take the Crown,$1.25,2.18
+580,Thought Vessel,Commander 2015,$2.79,3.51
+581,Avenger of Zendikar ,Secret Lair,$32.99,4.07
+582,Consuming Tide ,Innistrad,$1.49,0.41
+583,Dreamroot Cascade ,Innistrad,$10.99,6.18
+584,Field of the Dead,Core Set 2020,$25.99,22.15
+585,Roil Elemental ,Secret Lair,$15.99,7.74
+586,Skyshroud Claim,Nemesis,$4.99,3.79
+587,"Yavimaya, Cradle of Growth ",Modern Horizons 2 Variants,$14.99,9.10
+588,Chasm Skulker,2015 Core Set,$0.55,0.26
+589,Mystic Sanctuary,Throne of Eldraine,$1.43,1.64
+590,Altar of the Brood,Khans of Tarkir,$7.49,7.84
+591,Conjurer's Closet ,Promotional,$11.99,9.95
+592,"Mondrak, Glory Dominus ",Phyrexia,$29.99,24.85
+593,Panharmonicon ,Double Masters 2022 Variants Foil,$7.99,5.77
+594,"Preston, the Vanisher",Jumpstart 2022,$16.99,15.41
+595,Rise of the Dark Realms ,Secret Lair,$25.99,15.86
