@@ -6,6 +6,8 @@ import pandas as pd
 import tkinter as tk
 from tkinter import ttk
 
+data = util.get_final_dict()
+print(data)
 
 # TODO: csv editor? for some reason? i'm not sure its really necessary for what i want
 # tkinter gui :( // this sounds really hard and unnecessary :(
@@ -50,7 +52,7 @@ with open('order history/mtg_stocks.csv', mode ='r')as file:
         # Iterate over the values in each line
         for j, val in enumerate(line):
             # Create a label widget for each val
-            label = tk.Label(sub_frame, text=val)
+            label = tk.Label(window, text=val)
             label.grid(row=i, column=j)
 
 

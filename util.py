@@ -9,10 +9,12 @@ from time import sleep as delay
 def get_price(card_name: str, card_set: str) -> int:
     # scryfall api search request
     price = -1
-    response = requests.get(f'https://api.scryfall.com/cards/search?q="{card_name}" e="{card_set}" -is:digital')
 
+    if "-" in card_name:
+        card_name = card_name.split("-")[0].strip()
 
     # check response status code
+    response = requests.get(f'https://api.scryfall.com/cards/search?q="{card_name}" -is:digital')
     if response.status_code == 200:
         card_data = response.json()
 
@@ -26,24 +28,6 @@ def get_price(card_name: str, card_set: str) -> int:
                 # Get the USD price of the card, if available
                 if "usd" in card["prices"]:
                     price = card["prices"]["usd"]
-
-    elif response.status_code == 404 and ("-" in card_name):
-        card_name = card_name.split("-")[0]
-        response = requests.get(f'https://api.scryfall.com/cards/search?q="{card_name}" e="{card_set}" -is:digital')
-        # check response status code
-        if response.status_code == 200:
-            card_data = response.json()
-
-            # card data
-            if "data" in card_data:
-                # Get the first card from the list of cards returned by the API
-                card = card_data["data"][0]
-
-                # Check if the 'prices' key is present in the card data
-                if "prices" in card:
-                    # Get the USD price of the card, if available
-                    if "usd" in card["prices"]:
-                        price = card["prices"]["usd"]
     else:
         # If the response was unsuccessful, print the status code
         print(f"Request failed with status code {card_name}: {response.status_code}")
@@ -73,7 +57,7 @@ def strip_card_name(card_dict: dict) -> None:
         # more jank ?
 
         if "(" in temp[i]:
-            temp[i] = temp[i].split("(")[0]
+            temp[i] = temp[i].split("(")[0].strip()
 
     if len(temp) == len(card_dict["Card Name"]):
         card_dict["Card Name"] = temp
@@ -108,7 +92,7 @@ def fill_current_price(card_dict: dict) -> None:
         card_dict["Card Current Price"].pop(i)
     #####################################################################################################################
 
-def get_merged_dict() -> None:
+def get_final_dict() -> dict:
     # form our dictonary and merge
     tcg_data = tcgplayer.get_tcg_data()
     ck_data = cardkingdom.get_ck_data()
@@ -116,6 +100,9 @@ def get_merged_dict() -> None:
 
     # clean the card names up slightly
     strip_card_name(merged_data)
+    fill_current_price(merged_data)
+
+    return merged_data
 
 def export_dict_csv(card_dict: dict) -> None:
     # create the dictionary/data frame. export as csv

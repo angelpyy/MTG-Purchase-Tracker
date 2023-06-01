@@ -50,6 +50,6 @@ def get_tcg_data():
                     data["Card Name"].append(order_history_card.get_text(strip=True))
                     data["Card Set"].append(order_history_set)
                     # print(order_history_price.get_text(strip=True))
-                    data["Card Purchase Price"].append(order_history_price.get_text(strip=True))
+                    data["Card Purchase Price"].append(order_history_price.get_text(strip=True).replace('$', ''))
 
     return data

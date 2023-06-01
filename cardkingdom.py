@@ -40,9 +40,9 @@ def get_ck_data():
                 continue
             
             temp = details[0].text.split(": ")
-            order_history_card = temp[0]
-            order_history_set = temp[1]
-            order_history_price = details[3].text.strip()
+            order_history_card = temp[0].strip()
+            order_history_set = temp[1].strip()
+            order_history_price = details[3].text.replace('$', '').strip()
 
             if order_history_card and order_history_price and order_history_set:
                 data["Card Name"].append(order_history_card)
