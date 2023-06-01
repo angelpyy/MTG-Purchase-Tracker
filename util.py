@@ -14,6 +14,7 @@ def get_price(card_name: str, card_set: str) -> int:
         card_name = card_name.split("-")[0].strip()
 
     # check response status code
+    print(f"Sending request for {card_name}")
     response = requests.get(f'https://api.scryfall.com/cards/search?q="{card_name}" -is:digital')
     if response.status_code == 200:
         card_data = response.json()
@@ -107,4 +108,4 @@ def get_final_dict() -> dict:
 def export_dict_csv(card_dict: dict) -> None:
     # create the dictionary/data frame. export as csv
     df = pd.DataFrame(card_dict)
-    df.to_csv(r'/Users/angel/Documents/Python Projects/TCG Investment Tracker /order history/mtg_stocks.csv', index=True, header=True)
+    df.to_csv(r'/Users/angel/Documents/Python Projects/TCG Investment Tracker /order history/mtg_stocks.csv', index=False, header=True)

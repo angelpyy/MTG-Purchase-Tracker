@@ -6,9 +6,6 @@ import pandas as pd
 import tkinter as tk
 from tkinter import ttk
 
-data = util.get_final_dict()
-print(data)
-
 # TODO: csv editor? for some reason? i'm not sure its really necessary for what i want
 # tkinter gui :( // this sounds really hard and unnecessary :(
 
@@ -16,6 +13,23 @@ print(data)
 window = tk.Tk()
 window.geometry("1200x800")
 window.title("Stop Spending on Cardboard")
+
+# open the file :p
+with open('order history/mtg_stocks.csv', mode ='r')as file:
+    # reading the CSV file
+    csvFile = csv.reader(file)
+
+    # Iterate over the lines of the CSV file
+    for i, line in enumerate(csvFile):
+        # Iterate over the values in each line
+        for j, val in enumerate(line):
+            # Create a label widget for each val
+            label = tk.Label(window, text=val)
+            label.grid(row=i, column=j)
+
+window.mainloop()
+
+
 
 """
 # reallyyyyy slow scroll bar. anyway im done w this csv thingy, i should be good from here, time TODO: data stuff
@@ -41,20 +55,3 @@ sub_frame = tk.Frame(my_canvas)
 # Add new frame to window in canvas
 my_canvas.create_window((0,0), window=sub_frame, anchor='nw')
 """
-
-# open the file :p
-with open('order history/mtg_stocks.csv', mode ='r')as file:
-    # reading the CSV file
-    csvFile = csv.reader(file)
-
-    # Iterate over the lines of the CSV file
-    for i, line in enumerate(csvFile):
-        # Iterate over the values in each line
-        for j, val in enumerate(line):
-            # Create a label widget for each val
-            label = tk.Label(window, text=val)
-            label.grid(row=i, column=j)
-
-
-
-window.mainloop()
