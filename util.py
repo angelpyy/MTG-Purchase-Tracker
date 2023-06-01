@@ -1,5 +1,8 @@
+# this isnt really all that great in terms of organization :(
+
 import requests
 import pandas as pd
+import tcgplayer, cardkingdom
 from time import sleep as delay
 
 # this function really turned to shit so fast
@@ -48,7 +51,7 @@ def get_price(card_name: str, card_set: str) -> int:
 
     return price
 
-def dict_merge(dict1: dict, dict2: dict) -> dict:
+def merge_dicts(dict1: dict, dict2: dict) -> dict:
     new_dict = {
         "Card Name": [],
         "Card Set": [],
@@ -64,7 +67,7 @@ def dict_merge(dict1: dict, dict2: dict) -> dict:
 
     return new_dict
 
-def strip_name(card_dict: dict) -> None:
+def strip_card_name(card_dict: dict) -> None:
     temp = card_dict["Card Name"]
     for i in range(0, len(temp)):
         # more jank ?
@@ -75,7 +78,7 @@ def strip_name(card_dict: dict) -> None:
     if len(temp) == len(card_dict["Card Name"]):
         card_dict["Card Name"] = temp
 
-def pop_current_price(card_dict: dict) -> None:
+def fill_current_price(card_dict: dict) -> None:
     # add pricing data 
     # find the current prices use excel to calc the difference after
     invalid_indexes = []
@@ -104,6 +107,15 @@ def pop_current_price(card_dict: dict) -> None:
         card_dict["Card Purchase Price"].pop(i)
         card_dict["Card Current Price"].pop(i)
     #####################################################################################################################
+
+def get_merged_dict() -> None:
+    # form our dictonary and merge
+    tcg_data = tcgplayer.get_tcg_data()
+    ck_data = cardkingdom.get_ck_data()
+    merged_data = merge_dicts(tcg_data, ck_data)
+
+    # clean the card names up slightly
+    strip_card_name(merged_data)
 
 def export_dict_csv(card_dict: dict) -> None:
     # create the dictionary/data frame. export as csv
